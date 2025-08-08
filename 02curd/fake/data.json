@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "53c4",
+      "name": "vivo 1714",
+      "price": "25000",
+      "category": "mobiles"
+    },
+    {
+      "name": "samsaug",
+      "price": "100000",
+      "category": "tv",
+      "id": "5115"
+    },
+    {
+      "id": "7ff4",
+      "name": "real me",
+      "price": "50000",
+      "category": "mobiles"
+    },
+    {
+      "id": "d655",
+      "name": "nokia",
+      "price": "30000",
+      "category": "mobiles"
+    },
+    {
+      "id": "e311",
+      "name": "dell i5",
+      "price": "100000",
+      "category": "laptops"
+    },
+    {
+      "id": "f7be",
+      "name": "typeB",
+      "price": "300",
+      "category": "charger cable"
+    },
+    {
+      "id": "9756",
+      "name": "type c",
+      "price": "450",
+      "category": "charger adapter"
+    },
+    {
+      "id": "a12c",
+      "name": "red",
+      "price": "7500",
+      "category": "speaker"
+    },
+    {
+      "id": "d1c7",
+      "name": "boat",
+      "price": "9000",
+      "category": "bluetooth speaker"
+    },
+    {
+      "name": "1aaaa",
+      "price": "101",
+      "category": "laptops",
+      "id": "11a4"
+    }
+  ]
+}
